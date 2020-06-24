@@ -1,0 +1,1348 @@
+{
+   "Make*": [
+      {
+         "Model": "Model"
+      }
+   ],
+   "ACURA": [
+      {
+         "Model": "ILX"
+      },
+      {
+         "Model": "MDX"
+      },
+      {
+         "Model": "RDX"
+      },
+      {
+         "Model": "RL"
+      },
+      {
+         "Model": "TL"
+      },
+      {
+         "Model": "TLX"
+      },
+      {
+         "Model": "TSX"
+      }
+   ],
+   "ALFA ROMEO": [
+      {
+         "Model": "Giulia (952)"
+      },
+      {
+         "Model": "Stelvio"
+      }
+   ],
+   "AUDI": [
+      {
+         "Model": "A3"
+      },
+      {
+         "Model": "A3 Sportback e-tron"
+      },
+      {
+         "Model": "A4"
+      },
+      {
+         "Model": "A4 allroad"
+      },
+      {
+         "Model": "A5"
+      },
+      {
+         "Model": "A6"
+      },
+      {
+         "Model": "A7"
+      },
+      {
+         "Model": "e-tron"
+      },
+      {
+         "Model": "Q3"
+      },
+      {
+         "Model": "Q5"
+      },
+      {
+         "Model": "Q7"
+      },
+      {
+         "Model": "Q8"
+      },
+      {
+         "Model": "R8"
+      },
+      {
+         "Model": "RS7"
+      },
+      {
+         "Model": "S3"
+      },
+      {
+         "Model": "S5"
+      },
+      {
+         "Model": "S8"
+      },
+      {
+         "Model": "SQ5"
+      },
+      {
+         "Model": "TT"
+      },
+      {
+         "Model": "TTS"
+      }
+   ],
+   "BMW": [
+      {
+         "Model": "230i"
+      },
+      {
+         "Model": "320i"
+      },
+      {
+         "Model": "328i"
+      },
+      {
+         "Model": "330e"
+      },
+      {
+         "Model": "330i"
+      },
+      {
+         "Model": "335d"
+      },
+      {
+         "Model": "335i"
+      },
+      {
+         "Model": "340i"
+      },
+      {
+         "Model": "428i"
+      },
+      {
+         "Model": "430i"
+      },
+      {
+         "Model": "440i"
+      },
+      {
+         "Model": "528i"
+      },
+      {
+         "Model": "528xi"
+      },
+      {
+         "Model": "530e"
+      },
+      {
+         "Model": "530i"
+      },
+      {
+         "Model": "535d"
+      },
+      {
+         "Model": "535i"
+      },
+      {
+         "Model": "540i"
+      },
+      {
+         "Model": "550i"
+      },
+      {
+         "Model": "640i"
+      },
+      {
+         "Model": "650i"
+      },
+      {
+         "Model": "740e"
+      },
+      {
+         "Model": "740Li"
+      },
+      {
+         "Model": "750i"
+      },
+      {
+         "Model": "750i / ALPINA B7"
+      },
+      {
+         "Model": "750i / B7"
+      },
+      {
+         "Model": "750Li / ALPINA B7"
+      },
+      {
+         "Model": "ActiveHybrid 5"
+      },
+      {
+         "Model": "i3"
+      },
+      {
+         "Model": "M2"
+      },
+      {
+         "Model": "M240i"
+      },
+      {
+         "Model": "M3"
+      },
+      {
+         "Model": "M4"
+      },
+      {
+         "Model": "M550i"
+      },
+      {
+         "Model": "M760i"
+      },
+      {
+         "Model": "X1"
+      },
+      {
+         "Model": "X2"
+      },
+      {
+         "Model": "X3"
+      },
+      {
+         "Model": "X4"
+      },
+      {
+         "Model": "X5"
+      },
+      {
+         "Model": "X6"
+      },
+      {
+         "Model": "X7"
+      },
+      {
+         "Model": "Z4"
+      }
+   ],
+   "BUICK": [
+      {
+         "Model": "Cascada"
+      },
+      {
+         "Model": "Enclave"
+      },
+      {
+         "Model": "Encore"
+      },
+      {
+         "Model": "Envision"
+      },
+      {
+         "Model": "LaCrosse"
+      },
+      {
+         "Model": "Lucerne"
+      },
+      {
+         "Model": "Regal"
+      },
+      {
+         "Model": "Verano"
+      }
+   ],
+   "CADILLAC": [
+      {
+         "Model": "ATS"
+      },
+      {
+         "Model": "CT6"
+      },
+      {
+         "Model": "CTS"
+      },
+      {
+         "Model": "DTS"
+      },
+      {
+         "Model": "Escalade"
+      },
+      {
+         "Model": "Escalade ESV"
+      },
+      {
+         "Model": "SRX"
+      },
+      {
+         "Model": "XT4"
+      },
+      {
+         "Model": "XT5"
+      },
+      {
+         "Model": "XT6"
+      },
+      {
+         "Model": "XTS"
+      }
+   ],
+   "CHEVROLET": [
+      {
+         "Model": "Avalanche"
+      },
+      {
+         "Model": "Blazer"
+      },
+      {
+         "Model": "Bolt EV"
+      },
+      {
+         "Model": "Camaro"
+      },
+      {
+         "Model": "Captiva Sport"
+      },
+      {
+         "Model": "Colorado"
+      },
+      {
+         "Model": "Corvette"
+      },
+      {
+         "Model": "Cruze"
+      },
+      {
+         "Model": "Equinox"
+      },
+      {
+         "Model": "Express"
+      },
+      {
+         "Model": "HHR"
+      },
+      {
+         "Model": "Impala"
+      },
+      {
+         "Model": "Impala Limited"
+      },
+      {
+         "Model": "Malibu"
+      },
+      {
+         "Model": "Silverado"
+      },
+      {
+         "Model": "Silverado HD"
+      },
+      {
+         "Model": "Silverado LD"
+      },
+      {
+         "Model": "Sonic"
+      },
+      {
+         "Model": "Spark"
+      },
+      {
+         "Model": "Suburban"
+      },
+      {
+         "Model": "Tahoe"
+      },
+      {
+         "Model": "Traverse"
+      },
+      {
+         "Model": "Trax"
+      },
+      {
+         "Model": "Volt"
+      }
+   ],
+   "Chevrolet": [
+      {
+         "Model": "Silverado 1500"
+      }
+   ],
+   "CHRYSLER": [
+      {
+         "Model": "200"
+      },
+      {
+         "Model": "300"
+      },
+      {
+         "Model": "300C"
+      },
+      {
+         "Model": "Concorde"
+      },
+      {
+         "Model": "Pacifica"
+      },
+      {
+         "Model": "Town and Country"
+      }
+   ],
+   "DODGE": [
+      {
+         "Model": "Avenger"
+      },
+      {
+         "Model": "Caliber"
+      },
+      {
+         "Model": "Challenger"
+      },
+      {
+         "Model": "Charger"
+      },
+      {
+         "Model": "Dart"
+      },
+      {
+         "Model": "Durango"
+      },
+      {
+         "Model": "Grand Caravan"
+      },
+      {
+         "Model": "Journey"
+      },
+      {
+         "Model": "Ram"
+      }
+   ],
+   "FIAT": [
+      {
+         "Model": "500"
+      },
+      {
+         "Model": "500L"
+      },
+      {
+         "Model": "500X"
+      }
+   ],
+   "FORD": [
+      {
+         "Model": "C-max"
+      },
+      {
+         "Model": "E-350"
+      },
+      {
+         "Model": "Ecosport"
+      },
+      {
+         "Model": "Edge"
+      },
+      {
+         "Model": "Escape"
+      },
+      {
+         "Model": "Expedition"
+      },
+      {
+         "Model": "Expedition EL"
+      },
+      {
+         "Model": "Expedition MAX"
+      },
+      {
+         "Model": "Explorer"
+      },
+      {
+         "Model": "F-150"
+      },
+      {
+         "Model": "F-250"
+      },
+      {
+         "Model": "F-350"
+      },
+      {
+         "Model": "F-450"
+      },
+      {
+         "Model": "Fiesta"
+      },
+      {
+         "Model": "Five Hundred"
+      },
+      {
+         "Model": "Flex"
+      },
+      {
+         "Model": "Focus"
+      },
+      {
+         "Model": "Fusion"
+      },
+      {
+         "Model": "Mustang"
+      },
+      {
+         "Model": "Ranger"
+      },
+      {
+         "Model": "Taurus"
+      },
+      {
+         "Model": "Transit"
+      },
+      {
+         "Model": "Transit Connect"
+      },
+      {
+         "Model": "Transit\\"
+      }
+   ],
+   "FREIGHTLINER": [
+      {
+         "Model": "Cascadia"
+      }
+   ],
+   "GENESIS": [
+      {
+         "Model": "G70"
+      },
+      {
+         "Model": "G80"
+      },
+      {
+         "Model": "G90"
+      }
+   ],
+   "GMC": [
+      {
+         "Model": "Acadia"
+      },
+      {
+         "Model": "Canyon"
+      },
+      {
+         "Model": "Sierra"
+      },
+      {
+         "Model": "Sonoma"
+      },
+      {
+         "Model": "Terrain"
+      },
+      {
+         "Model": "Yukon"
+      },
+      {
+         "Model": "Yukon XL"
+      }
+   ],
+   "HONDA": [
+      {
+         "Model": "Accord"
+      },
+      {
+         "Model": "Accord Crosstour"
+      },
+      {
+         "Model": "Civic"
+      },
+      {
+         "Model": "CLARITY"
+      },
+      {
+         "Model": "CR-V"
+      },
+      {
+         "Model": "CR-Z"
+      },
+      {
+         "Model": "Crosstour"
+      },
+      {
+         "Model": "Element"
+      },
+      {
+         "Model": "Fit"
+      },
+      {
+         "Model": "HR-V"
+      },
+      {
+         "Model": "Insight"
+      },
+      {
+         "Model": "Odyssey"
+      },
+      {
+         "Model": "Passport"
+      },
+      {
+         "Model": "Pilot"
+      }
+   ],
+   "Honda": [
+      {
+         "Model": "Accord Sedan"
+      },
+      {
+         "Model": "Civic Coupe"
+      }
+   ],
+   "HYUNDAI": [
+      {
+         "Model": "Accent"
+      },
+      {
+         "Model": "Azera"
+      },
+      {
+         "Model": "Elantra"
+      },
+      {
+         "Model": "Elantra GT"
+      },
+      {
+         "Model": "Genesis Coupe"
+      },
+      {
+         "Model": "Ioniq"
+      },
+      {
+         "Model": "Kona"
+      },
+      {
+         "Model": "Palisade"
+      },
+      {
+         "Model": "Santa Fe"
+      },
+      {
+         "Model": "Santa Fe Sport"
+      },
+      {
+         "Model": "Sonata"
+      },
+      {
+         "Model": "Tucson"
+      },
+      {
+         "Model": "Veloster"
+      },
+      {
+         "Model": "Veracruz"
+      }
+   ],
+   "INFINITI": [
+      {
+         "Model": "FX37"
+      },
+      {
+         "Model": "G37"
+      },
+      {
+         "Model": "M37"
+      },
+      {
+         "Model": "Q50"
+      },
+      {
+         "Model": "Q60"
+      },
+      {
+         "Model": "Q70"
+      },
+      {
+         "Model": "Q70L"
+      },
+      {
+         "Model": "QX30"
+      },
+      {
+         "Model": "QX50"
+      },
+      {
+         "Model": "QX56"
+      },
+      {
+         "Model": "QX60"
+      },
+      {
+         "Model": "QX70"
+      },
+      {
+         "Model": "QX80"
+      }
+   ],
+   "JAGUAR": [
+      {
+         "Model": "E-PACE"
+      },
+      {
+         "Model": "F-Pace"
+      },
+      {
+         "Model": "F-Type"
+      },
+      {
+         "Model": "XE"
+      },
+      {
+         "Model": "XF"
+      },
+      {
+         "Model": "XJ"
+      }
+   ],
+   "JEEP": [
+      {
+         "Model": "Cherokee"
+      },
+      {
+         "Model": "Compass"
+      },
+      {
+         "Model": "Gladiator"
+      },
+      {
+         "Model": "Grand Cherokee"
+      },
+      {
+         "Model": "Patriot"
+      },
+      {
+         "Model": "Renegade"
+      },
+      {
+         "Model": "Wrangler"
+      },
+      {
+         "Model": "Wrangler JK"
+      }
+   ],
+   "KIA": [
+      {
+         "Model": "Cadenza"
+      },
+      {
+         "Model": "Forte"
+      },
+      {
+         "Model": "Forte Koup"
+      },
+      {
+         "Model": "K900"
+      },
+      {
+         "Model": "Niro"
+      },
+      {
+         "Model": "Optima"
+      },
+      {
+         "Model": "Rio"
+      },
+      {
+         "Model": "Sedona"
+      },
+      {
+         "Model": "Sorento"
+      },
+      {
+         "Model": "Soul"
+      },
+      {
+         "Model": "Sportage"
+      },
+      {
+         "Model": "Stinger"
+      }
+   ],
+   "LAND ROVER": [
+      {
+         "Model": "Discovery"
+      },
+      {
+         "Model": "Discovery Sport"
+      },
+      {
+         "Model": "LR4"
+      },
+      {
+         "Model": "Range Rover"
+      },
+      {
+         "Model": "Range Rover Evoque"
+      },
+      {
+         "Model": "Range Rover Sport"
+      },
+      {
+         "Model": "Range Rover Velar"
+      }
+   ],
+   "LEXUS": [
+      {
+         "Model": "CT"
+      },
+      {
+         "Model": "ES"
+      },
+      {
+         "Model": "GS"
+      },
+      {
+         "Model": "GX"
+      },
+      {
+         "Model": "GX\\"
+      },
+      {
+         "Model": "IS"
+      },
+      {
+         "Model": "LC"
+      },
+      {
+         "Model": "LS"
+      },
+      {
+         "Model": "LX"
+      },
+      {
+         "Model": "NX"
+      },
+      {
+         "Model": "RC"
+      },
+      {
+         "Model": "RX"
+      },
+      {
+         "Model": "SC"
+      },
+      {
+         "Model": "UX"
+      }
+   ],
+   "LINCOLN": [
+      {
+         "Model": "Aviator"
+      },
+      {
+         "Model": "Continental"
+      },
+      {
+         "Model": "MKC"
+      },
+      {
+         "Model": "MKT"
+      },
+      {
+         "Model": "MKX"
+      },
+      {
+         "Model": "MKZ"
+      },
+      {
+         "Model": "Nautilus"
+      },
+      {
+         "Model": "Navigator"
+      },
+      {
+         "Model": "Navigator L"
+      }
+   ],
+   "MASERATI": [
+      {
+         "Model": "Ghibli"
+      },
+      {
+         "Model": "Levante"
+      },
+      {
+         "Model": "Quattroporte"
+      }
+   ],
+   "MAZDA": [
+      {
+         "Model": "CX-3"
+      },
+      {
+         "Model": "CX-30"
+      },
+      {
+         "Model": "CX-5"
+      },
+      {
+         "Model": "CX-9"
+      },
+      {
+         "Model": "Mazda3"
+      },
+      {
+         "Model": "Mazda5"
+      },
+      {
+         "Model": "Mazda6"
+      },
+      {
+         "Model": "MX-5"
+      }
+   ],
+   "MERCEDES-BENZ": [
+      {
+         "Model": "A-Class"
+      },
+      {
+         "Model": "AMG GT"
+      },
+      {
+         "Model": "B-Class"
+      },
+      {
+         "Model": "C-Class"
+      },
+      {
+         "Model": "CLA-Class"
+      },
+      {
+         "Model": "CLS-Class"
+      },
+      {
+         "Model": "E-Class"
+      },
+      {
+         "Model": "G-Class"
+      },
+      {
+         "Model": "GL-Class"
+      },
+      {
+         "Model": "GLA-Class"
+      },
+      {
+         "Model": "GLC-Class"
+      },
+      {
+         "Model": "GLE-Class"
+      },
+      {
+         "Model": "GLK-Class"
+      },
+      {
+         "Model": "GLS-Class"
+      },
+      {
+         "Model": "M-Class"
+      },
+      {
+         "Model": "METRIS"
+      },
+      {
+         "Model": "ML-Class"
+      },
+      {
+         "Model": "R-Class"
+      },
+      {
+         "Model": "S-Class"
+      },
+      {
+         "Model": "SL-Class"
+      }
+   ],
+   "MERCURY": [
+      {
+         "Model": "Milan"
+      }
+   ],
+   "MINI": [
+      {
+         "Model": "Cooper Clubman"
+      },
+      {
+         "Model": "Cooper Convertible"
+      },
+      {
+         "Model": "Cooper Countryman"
+      },
+      {
+         "Model": "Cooper Hardtop"
+      },
+      {
+         "Model": "Cooper S Clubman"
+      },
+      {
+         "Model": "Cooper S Convertible"
+      },
+      {
+         "Model": "Cooper S Countryman"
+      },
+      {
+         "Model": "Cooper S Countryman All4"
+      },
+      {
+         "Model": "Cooper S Hardtop"
+      },
+      {
+         "Model": "Cooper S Paceman"
+      },
+      {
+         "Model": "Cooper S Roadster"
+      },
+      {
+         "Model": "JCW Coupe"
+      },
+      {
+         "Model": "JCW Hardtop"
+      }
+   ],
+   "MITSUBISHI": [
+      {
+         "Model": "ECLIPSE CROSS"
+      },
+      {
+         "Model": "Lancer"
+      },
+      {
+         "Model": "Mirage"
+      },
+      {
+         "Model": "Mirage G4"
+      },
+      {
+         "Model": "Outlander"
+      },
+      {
+         "Model": "Outlander Sport"
+      }
+   ],
+   "NISSAN": [
+      {
+         "Model": "350Z"
+      },
+      {
+         "Model": "370Z"
+      },
+      {
+         "Model": "Altima"
+      },
+      {
+         "Model": "Armada"
+      },
+      {
+         "Model": "Frontier"
+      },
+      {
+         "Model": "Juke"
+      },
+      {
+         "Model": "Kicks"
+      },
+      {
+         "Model": "Leaf"
+      },
+      {
+         "Model": "Maxima"
+      },
+      {
+         "Model": "Murano"
+      },
+      {
+         "Model": "NV"
+      },
+      {
+         "Model": "NV200"
+      },
+      {
+         "Model": "Pathfinder"
+      },
+      {
+         "Model": "Quest"
+      },
+      {
+         "Model": "Rogue"
+      },
+      {
+         "Model": "Rogue Select"
+      },
+      {
+         "Model": "Rogue Sports"
+      },
+      {
+         "Model": "Sentra"
+      },
+      {
+         "Model": "Titan"
+      },
+      {
+         "Model": "Versa"
+      },
+      {
+         "Model": "Versa Note"
+      },
+      {
+         "Model": "Xterra"
+      }
+   ],
+   "PORSCHE": [
+      {
+         "Model": "911"
+      },
+      {
+         "Model": "Boxster"
+      },
+      {
+         "Model": "Cayenne"
+      },
+      {
+         "Model": "Macan"
+      },
+      {
+         "Model": "Panamera"
+      }
+   ],
+   "RAM": [
+      {
+         "Model": "1500"
+      },
+      {
+         "Model": "2500"
+      },
+      {
+         "Model": "3500"
+      },
+      {
+         "Model": "Promaster 2500"
+      }
+   ],
+   "SMART": [
+      {
+         "Model": "Fortwo"
+      }
+   ],
+   "SUBARU": [
+      {
+         "Model": "Ascent"
+      },
+      {
+         "Model": "Crosstrek"
+      },
+      {
+         "Model": "Forester"
+      },
+      {
+         "Model": "Impreza"
+      },
+      {
+         "Model": "Legacy"
+      },
+      {
+         "Model": "Outback"
+      },
+      {
+         "Model": "WRX"
+      },
+      {
+         "Model": "XV CrossTrek"
+      }
+   ],
+   "TESLA": [
+      {
+         "Model": "Model 3"
+      },
+      {
+         "Model": "Model S"
+      },
+      {
+         "Model": "Model X"
+      }
+   ],
+   "TOYOTA": [
+      {
+         "Model": "4-Runner"
+      },
+      {
+         "Model": "Avalon"
+      },
+      {
+         "Model": "Avalon/Avalon Hybrid"
+      },
+      {
+         "Model": "C-HR"
+      },
+      {
+         "Model": "Camry"
+      },
+      {
+         "Model": "Camry Solara"
+      },
+      {
+         "Model": "Corolla"
+      },
+      {
+         "Model": "COROLLA iM"
+      },
+      {
+         "Model": "Corolla Matrix"
+      },
+      {
+         "Model": "FJ Cruiser"
+      },
+      {
+         "Model": "Highlander"
+      },
+      {
+         "Model": "LAND CRUISER"
+      },
+      {
+         "Model": "PRIUS"
+      },
+      {
+         "Model": "Prius C"
+      },
+      {
+         "Model": "Prius Plug-in"
+      },
+      {
+         "Model": "Prius Prime"
+      },
+      {
+         "Model": "Prius V"
+      },
+      {
+         "Model": "RAV4"
+      },
+      {
+         "Model": "Scion FR-S"
+      },
+      {
+         "Model": "Scion iA"
+      },
+      {
+         "Model": "Scion iM"
+      },
+      {
+         "Model": "SCION tC"
+      },
+      {
+         "Model": "SCION xB"
+      },
+      {
+         "Model": "Sequoia"
+      },
+      {
+         "Model": "Sienna"
+      },
+      {
+         "Model": "Supra"
+      },
+      {
+         "Model": "Tacoma"
+      },
+      {
+         "Model": "Tundra"
+      },
+      {
+         "Model": "Venza"
+      },
+      {
+         "Model": "Yaris"
+      },
+      {
+         "Model": "Yaris iA"
+      }
+   ],
+   "VOLKSWAGEN": [
+      {
+         "Model": "Arteon"
+      },
+      {
+         "Model": "Atlas"
+      },
+      {
+         "Model": "Beetle"
+      },
+      {
+         "Model": "CC"
+      },
+      {
+         "Model": "e-Golf"
+      },
+      {
+         "Model": "Golf"
+      },
+      {
+         "Model": "Golf Alltrack"
+      },
+      {
+         "Model": "Golf GTI"
+      },
+      {
+         "Model": "Golf R"
+      },
+      {
+         "Model": "Golf SportWagen"
+      },
+      {
+         "Model": "Jetta"
+      },
+      {
+         "Model": "Jetta Wagon"
+      },
+      {
+         "Model": "Passat"
+      },
+      {
+         "Model": "Tiguan"
+      },
+      {
+         "Model": "Touareg"
+      }
+   ],
+   "VOLVO": [
+      {
+         "Model": "C30"
+      },
+      {
+         "Model": "C70"
+      },
+      {
+         "Model": "S40"
+      },
+      {
+         "Model": "S60"
+      },
+      {
+         "Model": "S90"
+      },
+      {
+         "Model": "V60"
+      },
+      {
+         "Model": "XC60"
+      },
+      {
+         "Model": "XC70"
+      },
+      {
+         "Model": "XC90"
+      }
+   ],
+   "Volvo": [
+      {
+         "Model": "XC90 Plug In Hybrid"
+      }
+   ],
+   "WESTERN STAR": [
+      {
+         "Model": "5700"
+      }
+   ]
+}
