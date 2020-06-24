@@ -45,7 +45,6 @@
 		<script src="js/bootstrap-slider.js"></script>
 		<script src="js/jquery.inputmask.min.js"></script>
 		<script src="js/list.min.js"></script>
-		<script src="js/dropdown.js"></script>
 		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDNF3ZdjiMfY8DQbBlOXl8DuUweqsTS-RA&libraries=places"></script>
 		<script src="js/engine.js"></script>
 	</body>

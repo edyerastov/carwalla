@@ -475,6 +475,9 @@ window.onload = function() {
 	_hash = window.location.hash.split('/');
 	_hash[0] = 'pricedropshopping';
 	_hash[1] = 'pdash';
+
+	console.log(_hash);
+
 	_selectedMakeFromURL = _hash[3];
 	_selectedModelFromURL = _hash[4];
 
@@ -494,7 +497,7 @@ window.onload = function() {
 		_hash[4] = 'All';
 		window.location.hash = _hash.join('/');
 		$('#form-price-drop').attr('action', '#'+_hash.join('/')).submit();
-		// console.log(_hash.join('/'));
+		console.log(_hash.join('/'));
 		event.preventDefault();
 	})
 	$('#form-price-drop #select-car-model').change(function(event){
@@ -506,7 +509,7 @@ window.onload = function() {
 		_hash[4] = _selectedModel;
 		window.location.hash = _hash.join('/');
 		$('#form-price-drop').attr('action', '#'+_hash.join('/')).submit();
-		// console.log(_hash.join('/'));
+		console.log(_hash.join('/'));
 		event.preventDefault();
 	})
 // END of script for MAKE/MODEL form: 1) change make+model -> update url; 2) change url -> update make+model
